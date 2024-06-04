@@ -1,0 +1,7 @@
+Collecting tqdm
+  Downloading tqdm-4.66.1-py3-none-any.whl (78 kB)
+     ---------------------------------------- 78.3/78.3 kB 4.5 MB/s eta 0:00:00
+Collecting colorama
+  Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Installing collected packages: colorama, tqdm
+Successfully installed colorama-0.4.6 tqdm-4.66.1

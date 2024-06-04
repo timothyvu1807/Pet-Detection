@@ -1,0 +1,5 @@
+Collecting ffmpeg-python
+  Downloading ffmpeg_python-0.2.0-py3-none-any.whl (25 kB)
+Requirement already satisfied: future in c:\programdata\anaconda3\envs\mytorchenv\lib\site-packages (from ffmpeg-python) (0.18.3)
+Installing collected packages: ffmpeg-python
+Successfully installed ffmpeg-python-0.2.0

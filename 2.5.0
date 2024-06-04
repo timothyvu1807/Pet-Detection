@@ -1,0 +1,5 @@
+Collecting pygame
+  Downloading pygame-2.5.2-cp37-cp37m-win_amd64.whl (10.7 MB)
+     --------------------------------------- 10.7/10.7 MB 22.6 MB/s eta 0:00:00
+Installing collected packages: pygame
+Successfully installed pygame-2.5.2
