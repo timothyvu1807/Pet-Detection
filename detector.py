@@ -16,8 +16,8 @@ pet_id = UI.run_ui()
 # print(pet_id)
 
 #starting detection alg
-telegram_key = "6815683954:AAHxekKQ_QIRjhSZYeBwGxfHK4Aktz5o7gY"
-chat_id = "6468433899"
+telegram_key = "" #insert your telegram key
+chat_id = "" #insert your id chat key
 bot = telebot.TeleBot(telegram_key)
 shared_frame = None
 
