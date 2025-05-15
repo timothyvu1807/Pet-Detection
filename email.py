@@ -4,8 +4,8 @@ from email.mime.multipart import MIMEMultipart
 
 def send_email(to_email, subject, message):
     # Set up the sender's email credentials
-    sender_email = "vutimothy10@telebot.com"
-    sender_token = "430ce34d020724ed75a196dfc2ad67c77772d169d4b48f67056feeeb409d26b1"
+    sender_email = "" #add sender email
+    sender_token = "" #add sender token
 
     # Create the MIME object
     msg = MIMEMultipart()
